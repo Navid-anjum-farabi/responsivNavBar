@@ -121,3 +121,15 @@ body{
     transform: translateY(10px);
     transition-delay: 0.2s;
 }
+
+@media screen and (max-width:720px) {
+    .navication{
+        width: 378px;
+        height: 89px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    }
