@@ -126,9 +126,9 @@ body{
     .navication{
         width: 378px;
         height: 89px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        padding: 3px;
+        border: 1px;
+        
     }
 
 
